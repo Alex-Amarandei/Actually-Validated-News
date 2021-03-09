@@ -2,10 +2,17 @@
 
 <b> Diagrams </b>
 <br>
-Alex Amarandei - uploaded extended diagrams
+Done
 <br>
 <b> C4 </b>
 <br>
+Done
+<br>
 <b> Forward Engineering </b>
 <br>
+Done
+<br>
 <b> Reverse Engineering </b>
+<br>
+Done
+<br>
